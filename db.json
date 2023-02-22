@@ -1,6 +1,7 @@
 
 {
     "users": [
-      {"username":"rinkeshujjwal16@gmail.com","password":"Masai"}
+      {"username":"rinkeshujjwal16@gmail.com","password":"Masai","name":"Rinkesh"},
+      {"username":"rajmasai@12345","password":"Masai","name":"Rajkumar"}
 ]
   }
